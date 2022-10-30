@@ -17,4 +17,4 @@ npm install -g nodemon
 nodemon
 ```
 
-to install all the dependencies and start the server. The bot wil then be active.
+to install all the dependencies and start the server. The bot will then be active.
